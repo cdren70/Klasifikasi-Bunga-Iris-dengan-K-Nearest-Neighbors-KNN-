@@ -29,8 +29,7 @@ Proyek ini bertujuan untuk mengklasifikasikan jenis bunga Iris berdasarkan ukura
 - **Classification Report**:
   - Precision, Recall, dan F1-score tinggi untuk setiap kelas
 - **Confusion Matrix**:
-- ![image](https://github.com/user-attachments/assets/94cc7ad7-e45c-4e64-aded-40d39624f289)
-
+![image](https://github.com/user-attachments/assets/63508fe7-7056-4491-9119-54fb2695b911)
   - Sebagian besar prediksi benar
 - **PCA Visualization**:
   - Pemisahan kelas terlihat jelas dengan Principal Component Analysis (PCA)
