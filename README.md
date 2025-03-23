@@ -35,6 +35,8 @@ Proyek ini bertujuan untuk mengklasifikasikan jenis bunga Iris berdasarkan ukura
   
 - **PCA Visualization**:
   - Pemisahan kelas terlihat jelas dengan Principal Component Analysis (PCA)
+   ![image](https://github.com/user-attachments/assets/cab76326-7932-4ae2-a9e6-5b8a02b94334)
+
 
 ## 🚀 Cara Menjalankan Proyek
 
